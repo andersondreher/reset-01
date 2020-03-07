@@ -12,7 +12,7 @@ public class Calculadora {
         return valorUm * valorDois;
     }
 
-    int divisao(int valorUm, int valorDois) {
+    double divisao(double valorUm, double valorDois) {
         return valorUm / valorDois;
     }
 }
