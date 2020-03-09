@@ -3,6 +3,7 @@ package Exercicio3;
 public class Aluno {
 
     String nome;
+
     double nota;
 
     public Aluno (String nome, double nota) {
