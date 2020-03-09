@@ -30,7 +30,7 @@ public class App3 {
         System.out.println("Nome do aluno: " + jose.nome);
         System.out.println("Nota final: " + jose.nota);
         System.out.println("O aluno foi aprovado? " + jose.alunoAprovado());
-        
+
     }
 
 }

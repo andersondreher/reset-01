@@ -19,6 +19,5 @@ public class app {
         boolean comparacaoDeIdades = comparadorDeIdades.menorQue(36,34);
         System.out.println("comparador de idades: " + comparacaoDeIdades);
 
-
     }
 }
