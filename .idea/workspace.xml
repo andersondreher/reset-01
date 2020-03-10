@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a924219b-ec14-4cb2-8dd8-70d5fcd5623c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/AppCombate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/ataques/Armas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/ataques/Magias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/ataques/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/personagens/Barbaros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/personagens/Clerigos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/personagens/Druidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/personagens/Feiticeiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/personagens/Guerreiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiojogorpg/personagens/Magos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio3/App3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio3/App3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio3/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3/App3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio3/App3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yo0NB4l2jYWGqs0IkBc4uyuVO4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,13 +46,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.App3">
+  <component name="RunManager" selected="Application.AppCombate">
     <configuration name="App3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio3.App3" />
+      <option name="MAIN_CLASS_NAME" value="exercicio3.App3" />
       <module name="reset-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicio3.*" />
+          <option name="PATTERN" value="exercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppCombate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiojogorpg.AppCombate" />
+      <module name="reset-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafiojogorpg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppCombate" />
         <item itemvalue="Application.App3" />
         <item itemvalue="Application.app" />
       </list>
@@ -75,26 +102,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583721697717">
+    <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583872225323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583721697717" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583721697717">
+    <state x="484" y="254" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583872225323" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583872329286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583721697717" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583721697717">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583872329286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583872329286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583721697717" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583721697717">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583872329286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583872329285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583721697717" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1583721832060">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583872329285" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583872329286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583721832060" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583872329286" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1583860518809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583860518809" />
+    <state x="0" y="0" width="709" height="728" key="find.popup" timestamp="1583723901770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="709" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583723901770" />
     <state x="339" y="6" width="670" height="676" key="search.everywhere.popup" timestamp="1583719800030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
