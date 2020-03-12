@@ -17,7 +17,7 @@ public class Barbaros {
 
     }
 
-        Integer atacar(Barbaros personagemAtacado, Armas armaUtilizada){
+        public Integer atacar(Barbaros personagemAtacado, Armas armaUtilizada){
             Integer dano = (armaUtilizada.poderAtaqueArma * ataque) - personagemAtacado.defesa;
 
             if (personagemAtacado.vida == 0){
@@ -32,7 +32,7 @@ public class Barbaros {
             return dano;
         }
 
-        Integer atacar(Clerigos personagemAtacado, Armas armaUtilizada){
+        public Integer atacar(Clerigos personagemAtacado, Armas armaUtilizada){
             Integer dano = (armaUtilizada.poderAtaqueArma * ataque) - personagemAtacado.defesa;
 
             if (personagemAtacado.vida == 0){
@@ -47,7 +47,7 @@ public class Barbaros {
             return dano;
         }
 
-        Integer atacar(Druidas personagemAtacado, Armas armaUtilizada){
+        public Integer atacar(Druidas personagemAtacado, Armas armaUtilizada){
             Integer dano = (armaUtilizada.poderAtaqueArma * ataque) - personagemAtacado.defesa;
 
             if (personagemAtacado.vida == 0){
@@ -62,7 +62,7 @@ public class Barbaros {
             return dano;
         }
 
-        Integer atacar(Feiticeiros personagemAtacado, Armas armaUtilizada){
+        public Integer atacar(Feiticeiros personagemAtacado, Armas armaUtilizada){
             Integer dano = (armaUtilizada.poderAtaqueArma * ataque) - personagemAtacado.defesa;
 
             if (personagemAtacado.vida == 0){
@@ -77,7 +77,7 @@ public class Barbaros {
             return dano;
         }
 
-        Integer atacar(Guerreiros personagemAtacado, Armas armaUtilizada){
+        public Integer atacar(Guerreiros personagemAtacado, Armas armaUtilizada){
             Integer dano = (armaUtilizada.poderAtaqueArma * ataque) - personagemAtacado.defesa;
 
             if (personagemAtacado.vida == 0){
@@ -92,7 +92,7 @@ public class Barbaros {
             return dano;
         }
 
-        Integer atacar(Magos personagemAtacado, Armas armaUtilizada){
+        public Integer atacar(Magos personagemAtacado, Armas armaUtilizada){
             Integer dano = (armaUtilizada.poderAtaqueArma * ataque) - personagemAtacado.defesa;
 
             if (personagemAtacado.vida == 0){

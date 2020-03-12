@@ -19,7 +19,7 @@ public class Feiticeiros {
 
         }
 
-        Integer atacar(Barbaros personagemAtacado, Magias magiaUtilizada){
+        public Integer atacar(Barbaros personagemAtacado, Magias magiaUtilizada){
             Integer dano = (magiaUtilizada.poderMagia * ataque) - personagemAtacado.defesa;
 
             if (mana < magiaUtilizada.custoMana){
@@ -37,7 +37,7 @@ public class Feiticeiros {
             return dano;
         }
 
-        Integer atacar(Clerigos personagemAtacado, Magias magiaUtilizada){
+        public Integer atacar(Clerigos personagemAtacado, Magias magiaUtilizada){
             Integer dano = (magiaUtilizada.poderMagia * ataque) - personagemAtacado.defesa;
 
             if (mana < magiaUtilizada.custoMana){
@@ -55,7 +55,7 @@ public class Feiticeiros {
             return dano;
         }
 
-        Integer atacar(Druidas personagemAtacado, Magias magiaUtilizada){
+        public Integer atacar(Druidas personagemAtacado, Magias magiaUtilizada){
             Integer dano = (magiaUtilizada.poderMagia * ataque) - personagemAtacado.defesa;
 
             if (mana < magiaUtilizada.custoMana){
@@ -73,7 +73,7 @@ public class Feiticeiros {
             return dano;
         }
 
-        Integer atacar(Feiticeiros personagemAtacado, Magias magiaUtilizada){
+        public Integer atacar(Feiticeiros personagemAtacado, Magias magiaUtilizada){
             Integer dano = (magiaUtilizada.poderMagia * ataque) - personagemAtacado.defesa;
 
             if (mana < magiaUtilizada.custoMana){
@@ -91,7 +91,7 @@ public class Feiticeiros {
             return dano;
         }
 
-        Integer atacar(Guerreiros personagemAtacado, Magias magiaUtilizada){
+        public Integer atacar(Guerreiros personagemAtacado, Magias magiaUtilizada){
             Integer dano = (magiaUtilizada.poderMagia * ataque) - personagemAtacado.defesa;
 
             if (mana < magiaUtilizada.custoMana){
@@ -109,7 +109,7 @@ public class Feiticeiros {
             return dano;
         }
 
-        Integer atacar(Magos personagemAtacado, Magias magiaUtilizada){
+        public Integer atacar(Magos personagemAtacado, Magias magiaUtilizada){
             Integer dano = (magiaUtilizada.poderMagia * ataque) - personagemAtacado.defesa;
 
             if (mana < magiaUtilizada.custoMana){

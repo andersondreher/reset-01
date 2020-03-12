@@ -8,6 +8,5 @@ public class Armas {
     public Armas (String nomeArma, Integer poderAtaqueArma){
         this.nomeArma = nomeArma;
         this.poderAtaqueArma = poderAtaqueArma;
-
     }
 }

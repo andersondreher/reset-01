@@ -10,7 +10,5 @@ public class Magias {
         this.nomeMagia = nomeMagia;
         this.poderMagia = poderMagia;
         this.custoMana = custoMana;
-
     }
-
 }

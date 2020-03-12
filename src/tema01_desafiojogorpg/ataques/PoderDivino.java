@@ -10,7 +10,5 @@ public class PoderDivino {
         this.nomePoderDivino = nomePoderDivino;
         this.intensidadePoderDivino = intensidadePoderDivino;
         this.custoFe = custoFe;
-
     }
-
 }

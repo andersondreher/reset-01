@@ -19,7 +19,7 @@ public class Druidas {
 
         }
 
-        Integer atacar(Barbaros personagemAtacado, PoderDivino poderDivinoUtilizado){
+        public Integer atacar(Barbaros personagemAtacado, PoderDivino poderDivinoUtilizado){
             Integer dano = (poderDivinoUtilizado.intensidadePoderDivino * ataque) - personagemAtacado.defesa;
 
             if (fe < poderDivinoUtilizado.custoFe){
@@ -37,7 +37,7 @@ public class Druidas {
             return dano;
         }
 
-        Integer atacar(Clerigos personagemAtacado, PoderDivino poderDivinoUtilizado){
+        public Integer atacar(Clerigos personagemAtacado, PoderDivino poderDivinoUtilizado){
             Integer dano = (poderDivinoUtilizado.intensidadePoderDivino * ataque) - personagemAtacado.defesa;
 
             if (fe < poderDivinoUtilizado.custoFe){
@@ -55,7 +55,7 @@ public class Druidas {
             return dano;
         }
 
-        Integer atacar(Druidas personagemAtacado, PoderDivino poderDivinoUtilizado){
+        public Integer atacar(Druidas personagemAtacado, PoderDivino poderDivinoUtilizado){
             Integer dano = (poderDivinoUtilizado.intensidadePoderDivino * ataque) - personagemAtacado.defesa;
 
             if (fe < poderDivinoUtilizado.custoFe){
@@ -73,7 +73,7 @@ public class Druidas {
             return dano;
         }
 
-        Integer atacar(Feiticeiros personagemAtacado, PoderDivino poderDivinoUtilizado){
+        public Integer atacar(Feiticeiros personagemAtacado, PoderDivino poderDivinoUtilizado){
             Integer dano = (poderDivinoUtilizado.intensidadePoderDivino * ataque) - personagemAtacado.defesa;
 
             if (fe < poderDivinoUtilizado.custoFe){
@@ -91,7 +91,7 @@ public class Druidas {
             return dano;
         }
 
-        Integer atacar(Guerreiros personagemAtacado, PoderDivino poderDivinoUtilizado){
+        public Integer atacar(Guerreiros personagemAtacado, PoderDivino poderDivinoUtilizado){
             Integer dano = (poderDivinoUtilizado.intensidadePoderDivino * ataque) - personagemAtacado.defesa;
 
             if (fe < poderDivinoUtilizado.custoFe){
@@ -109,7 +109,7 @@ public class Druidas {
             return dano;
         }
 
-        Integer atacar(Magos personagemAtacado, PoderDivino poderDivinoUtilizado){
+        public Integer atacar(Magos personagemAtacado, PoderDivino poderDivinoUtilizado){
             Integer dano = (poderDivinoUtilizado.intensidadePoderDivino * ataque) - personagemAtacado.defesa;
 
             if (fe < poderDivinoUtilizado.custoFe){
