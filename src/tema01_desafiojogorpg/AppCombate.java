@@ -131,7 +131,7 @@ public class AppCombate {
         System.out.println("");
         System.out.println("");
 
-        System.out.println("------Status dos participantes após a primeiro rodada:-------");
+        System.out.println("------Status dos participantes após a primeira rodada:-------");
         System.out.println("");
         System.out.println("(✖╭╮✖)       O Barbaro "+ clovis.nome+"     Vida = " + clovis.vida);
         System.out.println("");
