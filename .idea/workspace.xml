@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a924219b-ec14-4cb2-8dd8-70d5fcd5623c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula02/exercicio2/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02/exercicio2/src/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02/exercicio2/src/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02/exercicio2/src/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/Turma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +67,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppCombate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="AppCombate" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema01_desafiojogorpg.AppCombate" />
       <module name="reset-01" />
       <extension name="coverage">
@@ -109,7 +102,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppCombate" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.app" />
         <item itemvalue="Application.App3" />
@@ -159,11 +151,11 @@
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583872329286" />
     <state width="1397" height="700" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584048731007" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1584204993251">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="411" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584382607600">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584204993251" />
-    <state x="411" y="224" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584050345318" />
+    <state x="411" y="224" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584382607600" />
     <state x="0" y="0" width="709" height="728" key="find.popup" timestamp="1583723901770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
