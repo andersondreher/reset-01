@@ -22,7 +22,7 @@ public class App {
         Bicicleta bicicleta = new Bicicleta("Bike", 30);
         Aviao aviao = new Aviao("Avião", 360, 12000, gasolinaDeAviacao);
 
-        Veiculo novoSubmarino = new Submarino("Sub", 360, 12000, carvao);
+        Veiculo novoSubmarino = new Submarino("blue", 360, 12000, carvao);
 
         System.out.println(submarino.toString());
         System.out.println(novoSubmarino.toString());

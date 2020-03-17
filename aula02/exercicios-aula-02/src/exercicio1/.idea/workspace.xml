@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b0e84d7-0e38-44bc-9b08-23024f3d8f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Caminhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Combustivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Terreno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/VeiculoAereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/VeiculoAquatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/VeiculoTerrestre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Aviao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Aviao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Bicicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Navio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Navio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Submarino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Submarino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Trem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Trem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../aula01/src/aula02/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../aula01/src/aula02/caminhão.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5b0e84d7-0e38-44bc-9b08-23024f3d8f1d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../aula01" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,5 +33,15 @@
       <updated>1584404131625</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1584404366689">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584404366689" />
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584404346708">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584404346708" />
   </component>
 </project>
