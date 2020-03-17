@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/aula02/exercicio2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aula02/exercicio3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aula02/exercicio4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula02/RpgRefatorado" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula02/JogoRpgRefatorado/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula02/TemaRpgRefatorado/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
