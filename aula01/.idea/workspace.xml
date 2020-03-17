@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a924219b-ec14-4cb2-8dd8-70d5fcd5623c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/reset-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/reset-01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula02/.idea/aula02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aula02/.idea/aula02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aula02/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula02/exercicios-aula-02/src/exercicio1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula02/exercicios-aula-02/src/exercicio1/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula02/exercicios-aula-02/src/exercicio1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula02/exercicios-aula-02/src/exercicio1/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula02/exercicios-aula-02/src/exercicio1/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula02/exercicios-aula-02/src/exercicio1/Turma.java" afterDir="false" />
-    </list>
+    <list default="true" id="a924219b-ec14-4cb2-8dd8-70d5fcd5623c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,11 +160,11 @@
     </state>
     <state width="1323" height="67" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584203956896" />
     <state width="1397" height="174" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584406017028" />
-    <state x="411" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584403913128">
+    <state x="411" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584452286058">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584187568037" />
-    <state x="411" y="224" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584403913128" />
+    <state x="411" y="224" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584452286058" />
     <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1584194008182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

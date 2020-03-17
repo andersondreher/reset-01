@@ -1,7 +1,3 @@
-package exercicio1;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 public class App {
 
     public static void main(String[] args) {
@@ -11,7 +7,7 @@ public class App {
 
         Turma t = new Turma();
         t.obterNome();
-        t.obterQuantidadeDeAlunos();
+        t.obterQuantidadeAlunos();
 
     }
 }

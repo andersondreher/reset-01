@@ -1,5 +1,3 @@
-package exercicio1;
-
 public class Aluno {
 
     private final String nome;
@@ -8,16 +6,15 @@ public class Aluno {
         this.nome = nome;
     }
 
-    void obterNota(){
+    void obterNota() {
 
     }
 
-    private void montarCola(){
+    private void montarCola() {
 
     }
 
-    public String getNome(){
+    public String getNome() {
         return nome;
     }
 }
-

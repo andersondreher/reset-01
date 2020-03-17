@@ -12,14 +12,24 @@ public class Livro {
         this.status = status;
     }
 
-    @Override
-    public String toString() {
-        return categoria + "-" +"Livro:" +
-                "Titulo='" + titulo + '\'' +
-                ", Autor='" + autor + '\'' +
-                ", Categoria=" + categoria +
-                ", Status=" + status +
-                '.';
+    public String getTitulo(){
+        return titulo;
+    }
+
+    public String getAutor(){
+        return autor;
+    }
+
+    public Categoria getCategoria(){
+        return categoria;
+    }
+
+    public Status getStatus(){
+        return status;
+    }
+
+    public void imprimir () {
+        System.out.println(categoria.getDescricao() + " - " + titulo + " (" + autor + "): " + status.getDescricao());
     }
 }
 

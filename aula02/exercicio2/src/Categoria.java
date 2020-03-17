@@ -1,8 +1,17 @@
 public enum Categoria {
 
-    SUSPENSE,
-    ROMANCE,
-    FANTASIA,
-    TERROR;
+    SUSPENSE ("Suspense"),
+    ROMANCE ("Roamance"),
+    FANTASIA ("Fantasia"),
+    TERROR ("Terror");
 
+    private String descricao;
+
+    Categoria (String descricao){
+        this.descricao = descricao;
+    }
+
+    public String getDescricao(){
+        return descricao;
+    }
 }
