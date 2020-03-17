@@ -1,15 +1,25 @@
 package aula02;
 
-public class Aviao extends Veiculo {
+public class Aviao extends VeiculoAereo {
 
-    String combustivel;
-    int numeroRodas;
-    double altitudeMaxima;
+    int lotacaoMaxima;
+    Combustivel combustivel;
 
-    public Aviao(String nome, String terreno, Double velocidadeMaxima, int lotacaoMaxima, String combustivel, double altitudeMaxima, int numeroRodas) {
-        super(nome, terreno, velocidadeMaxima, lotacaoMaxima);
-        this.altitudeMaxima = altitudeMaxima;
+    public Aviao(String nome, double velocidadeMaxima, double altitudeMaxima, Combustivel combustivel) {
+        super(nome, velocidadeMaxima, altitudeMaxima);
+        this.lotacaoMaxima = 180;
         this.combustivel = combustivel;
-        this.numeroRodas = numeroRodas;
+    }
+
+    @Override
+    public String toString() {
+        return "Aviao{" +
+                "lotacaoMaxima=" + lotacaoMaxima +
+                ", combustivel=" + combustivel +
+                ", altitudeMaxima=" + altitudeMaxima +
+                ", nome='" + nome + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                ", terreno=" + terreno +
+                '}';
     }
 }

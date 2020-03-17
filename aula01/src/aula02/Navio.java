@@ -1,11 +1,24 @@
 package aula02;
 
-public class Navio extends Veiculo {
+public class Navio extends VeiculoAquatico {
 
-    String combustivel;
+    int lotacaoMaxima;
+    Combustivel combustivel;
 
-    public Navio(String nome, String terreno, Double velocidadeMaxima, int lotacaoMaxima, String combustivel) {
-        super(nome, terreno, velocidadeMaxima, lotacaoMaxima);
+    public Navio(String nome, double velocidadeMaxima, Combustivel combustivel) {
+        super(nome, velocidadeMaxima);
+        this.lotacaoMaxima = 2500;
         this.combustivel = combustivel;
+    }
+
+    @Override
+    public String toString() {
+        return "Navio{" +
+                "lotacaoMaxima=" + lotacaoMaxima +
+                ", combustivel=" + combustivel +
+                ", nome='" + nome + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                ", terreno=" + terreno +
+                '}';
     }
 }

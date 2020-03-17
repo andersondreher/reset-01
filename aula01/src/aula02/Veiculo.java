@@ -3,15 +3,16 @@ package aula02;
 public class Veiculo {
 
     String nome;
-    String terreno;
     double velocidadeMaxima;
-    int lotacaoMaxima;
+    Terreno terreno;
 
-        public Veiculo(String nome, String terreno, Double velocidadeMaxima, int lotacaoMaxima){
+        public Veiculo(String nome, Double velocidadeMaxima, Terreno terreno){
             this.nome = nome;
-            this.terreno = terreno;
             this.velocidadeMaxima = velocidadeMaxima;
-            this.lotacaoMaxima = lotacaoMaxima;
+            this.terreno = terreno;
         }
 
+     public String toString() {
+            return "Não Configurado";
+     }
 }

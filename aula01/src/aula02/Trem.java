@@ -1,13 +1,25 @@
 package aula02;
 
-public class Trem extends Veiculo {
+public class Trem extends VeiculoTerrestre {
 
-    String combustivel;
-    int numeroRodas;
+    int lotacaoMaxima;
+    Combustivel combustivel;
 
-    public Trem(String nome, String terreno, Double velocidadeMaxima, int lotacaoMaxima, String combustivel, int numeroRodas) {
-        super(nome, terreno, velocidadeMaxima, lotacaoMaxima);
+    public Trem(String nome, double velocidadeMaxima, Combustivel combustivel) {
+        super(nome, velocidadeMaxima, 20);
+        this.lotacaoMaxima = 150;
         this.combustivel = combustivel;
-        this.numeroRodas = numeroRodas;
+    }
+
+    @Override
+    public String toString() {
+        return "Trem{" +
+                "lotacaoMaxima=" + lotacaoMaxima +
+                ", combustivel=" + combustivel +
+                ", quantidadeRodas=" + quantidadeRodas +
+                ", nome='" + nome + '\'' +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                ", terreno=" + terreno +
+                '}';
     }
 }

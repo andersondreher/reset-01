@@ -1,24 +1,22 @@
 package aula02;
 
-public class Submarino extends VeiculoAquatico {
+public class Caminhao extends VeiculoTerrestre {
 
     int lotacaoMaxima;
-    double profundidadeMaxima;
     Combustivel combustivel;
 
-    public Submarino(String nome, double velocidadeMaxima, double profundidadeMaxima, Combustivel combustivel) {
-        super(nome, velocidadeMaxima);
-        this.lotacaoMaxima = 2200;
-        this.profundidadeMaxima = profundidadeMaxima;
+    public Caminhao(String nome, double velocidadeMaxima, Combustivel combustivel) {
+        super(nome, velocidadeMaxima, 12);
+        this.lotacaoMaxima = 3;
         this.combustivel = combustivel;
     }
 
     @Override
     public String toString() {
-        return "Submarino{" +
+        return "caminhão{" +
                 "lotacaoMaxima=" + lotacaoMaxima +
-                ", profundidadeMaxima=" + profundidadeMaxima +
                 ", combustivel=" + combustivel +
+                ", quantidadeRodas=" + quantidadeRodas +
                 ", nome='" + nome + '\'' +
                 ", velocidadeMaxima=" + velocidadeMaxima +
                 ", terreno=" + terreno +
