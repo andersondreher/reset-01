@@ -6,7 +6,7 @@ public class Turma {
 
     }
 
-    public void obterQuantidadeDeAlunos (){
+    public void obterQuantidadeDeAlunos() {
 
     }
 }

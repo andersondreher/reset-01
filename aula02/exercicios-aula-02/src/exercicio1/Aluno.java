@@ -4,13 +4,20 @@ public class Aluno {
 
     private final String nome;
 
-   public Aluno (String nome){
+    public Aluno(String nome) {
+        this.nome = nome;
+    }
 
-       void obterNota(){
+    void obterNota(){
 
     }
 
     private void montarCola(){
 
     }
+
+    public String getNome(){
+        return nome;
+    }
 }
+

@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a924219b-ec14-4cb2-8dd8-70d5fcd5623c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/Caminhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/Combustivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/Terreno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/VeiculoAereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/VeiculoAquatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/VeiculoTerrestre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/reset-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/reset-01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Aviao.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Aviao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Bicicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Navio.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Navio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Submarino.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Submarino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Trem.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Trem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula02/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula01/src/aula02/caminhão.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/.idea/aula02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/.idea/aula02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/exercicios-aula-02/src/exercicio1/Turma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +39,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula02/exercicios-aula-02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tema01_desafiojogorpg.ataques" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppCombate">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula02.App" />
+      <module name="reset-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema01.App" />
       <module name="reset-01" />
@@ -119,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.app" />
         <item itemvalue="Application.App3" />
@@ -140,6 +146,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="312" y="88" key="#Project_Structure" timestamp="1584405831624">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="88" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1584405831624" />
     <state x="568" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584398709446">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -176,11 +186,11 @@
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583872329286" />
     <state width="1397" height="77" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584398779272" />
-    <state x="411" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584398794666">
+    <state x="411" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584405877608">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584204993251" />
-    <state x="411" y="224" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584398794666" />
+    <state x="411" y="224" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584405877608" />
     <state x="0" y="0" width="709" height="728" key="find.popup" timestamp="1583723901770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
