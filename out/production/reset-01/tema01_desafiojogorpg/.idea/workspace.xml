@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba35938d-54eb-4ad6-9bd5-38d0adb5b5c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/tema01_desafiojogorpg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/TemaRpgRefatorado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/AppCombate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Arcano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Combate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/HomemDeArmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Sacerdote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../reset-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reset-01.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ZGpR49ftTyp0rUNyEUr6dw6fVh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba35938d-54eb-4ad6-9bd5-38d0adb5b5c6" name="Default Changelist" comment="" />
+      <created>1584475273154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584475273154</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,5 +1,3 @@
-//características em comum para todos os personagens.
-
 public class Personagem {
 
     String nome;
@@ -14,11 +12,11 @@ public class Personagem {
         this.defesa = defesa;
     }
 
-    double calcularDano (double defesa, double poder){
+    double calcularDano(double defesa, double poder) {
         return (this.ataque * poder) - defesa;
     }
 
-    void registrar (String nomeAlvo, String habilidade, double dano){
-        System.out.println(this.nome + " atacou " + nomeAlvo + " com " + habilidade + " causando " + dano + " de dano");
+    void registrar(String nomeAlvo, String habilidade, double dano) {
+            System.out.println(this.nome + " atacou " + nomeAlvo + " com " + habilidade + " causando " + dano + " de dano");
     }
 }
