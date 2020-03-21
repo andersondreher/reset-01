@@ -2,18 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7983fc55-2a36-458a-bd6b-196779676614" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aula01/out/production/reset-01/aula02/.idea/aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/out/production/reset-01/tema01_desafiojogorpg/.idea/tema01_desafiojogorpg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula01/src/aula02/.idea/aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/.idea/aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/exercicio3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/AppCombate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Arcano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/CriarPersonagens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/HomemDeArmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/MagiaEmArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/MagiaIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Poder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/PoderDivinoEmArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/PoderDivinoIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula02/tema02/src/Sacerdote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/reset-01/aula02/.idea/aula02.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/AppCombate.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/AppCombate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Arcano.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Arcano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Clerigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Clerigo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Combate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Druida.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Druida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Feiticeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Feiticeiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Guerreiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Guerreiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/HomemDeArmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/HomemDeArmas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Mago.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Personagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Sacerdote.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Sacerdote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01/src/tema01_desafiojogorpg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/tema01_desafiojogorpg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/tema02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/tema02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/tema02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/TemaRpgRefatorado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/tema02/tema02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/AppCombate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Arcano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Barbaro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Clerigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Druida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Feiticeiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Guerreiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/HomemDeArmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Magia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/PoderDivino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/TemaRpgRefatorado/src/Sacerdote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/exercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/exercicio3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula02/exercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula02/exercicio4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reset-01/tema01_desafiojogorpg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/reset-01/tema01_desafiojogorpg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reset-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/reset-01.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +79,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula01/src/tema01_desafiojogorpg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Application.AppCombate (1)">
+  <component name="RunManager" selected="Application.Combate">
     <configuration name="AppCombate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppCombate" />
       <module name="reset-01" />
@@ -73,13 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppMercado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppMercado" />
-      <module name="reset-01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Combate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Combate" />
       <module name="reset-01" />
@@ -87,13 +126,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app" />
+      <module name="reset-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppCombate (1)" />
         <item itemvalue="Application.Combate" />
+        <item itemvalue="Application.AppCombate (1)" />
+        <item itemvalue="Application.app" />
         <item itemvalue="Application.AppEvento" />
         <item itemvalue="Application.AppCombate" />
-        <item itemvalue="Application.AppMercado" />
       </list>
     </recent_temporary>
   </component>
@@ -115,44 +161,64 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="88" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1584474895870" />
-    <state x="814" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1584492618330">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="858" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1584728211154">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="814" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584492618330" />
-    <state x="858" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1584482041204" />
-    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1584475272013">
+    <state x="858" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1584728211154" />
+    <state x="516" y="289" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584588160936">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584475272013" />
-    <state width="1322" height="72" key="GridCell.Tab.0.bottom" timestamp="1584508469676">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="516" y="289" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1584588160936" />
+    <state x="268" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584727914349">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="268" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1584727914349" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584727880950">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1584727880950" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1584731338006">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584731338006" />
+    <state width="1397" height="498" key="GridCell.Tab.0.bottom" timestamp="1584588221474">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1322" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
-    <state width="1397" height="2" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584483175184" />
-    <state width="1322" height="72" key="GridCell.Tab.0.center" timestamp="1584508469676">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
-    <state width="1397" height="2" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584483175184" />
-    <state width="1322" height="72" key="GridCell.Tab.0.left" timestamp="1584508469676">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
-    <state width="1397" height="2" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584483175184" />
-    <state width="1322" height="72" key="GridCell.Tab.0.right" timestamp="1584508469676">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
-    <state width="1397" height="2" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584483175184" />
-    <state x="394" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1584484155960">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="394" y="215" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584484155960" />
-    <state x="415" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584471289992" />
-    <state x="102" y="50" key="new project wizard" timestamp="1584474937712">
+    <state width="1397" height="498" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584588221474" />
+    <state width="1397" height="498" key="GridCell.Tab.0.center" timestamp="1584588221474">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="102" y="50" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1584474937712" />
+    <state width="1322" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
+    <state width="1397" height="498" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584588221474" />
+    <state width="1397" height="498" key="GridCell.Tab.0.left" timestamp="1584588221474">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1322" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
+    <state width="1397" height="498" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584588221474" />
+    <state width="1397" height="498" key="GridCell.Tab.0.right" timestamp="1584588221474">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1322" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584508469676" />
+    <state width="1397" height="498" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584588221474" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1584727730875">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584727730875" />
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584729331709">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="394" y="215" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584484155960" />
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584729331709" />
+    <state x="747" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584583570057">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="747" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.860@0.0.1440.860" timestamp="1584583570057" />
+    <state x="102" y="50" key="new project wizard" timestamp="1584654752126">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="50" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1584654752126" />
     <state x="462" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1584455204090">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

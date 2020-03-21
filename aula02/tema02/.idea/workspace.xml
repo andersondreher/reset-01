@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369523ed-6ce6-4756-8c20-cc78a7635e15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../aula01/out/production/reset-01/aula02/.idea/aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula01/out/production/reset-01/tema01_desafiojogorpg/.idea/tema01_desafiojogorpg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula01/src/aula02/.idea/aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/aula02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppCombate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arcano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CriarPersonagens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomemDeArmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MagiaEmArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MagiaIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoderDivinoEmArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PoderDivinoIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sacerdote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/reset-01/aula02/.idea/aula02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula01/src/tema01_desafiojogorpg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../aula01/src/tema01_desafiojogorpg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/TemaRpgRefatorado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tema02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/AppCombate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Arcano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Barbaro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Clerigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Druida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Feiticeiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Guerreiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/HomemDeArmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Magia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/PoderDivino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemaRpgRefatorado/src/Sacerdote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/reset-01/tema01_desafiojogorpg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/reset-01/tema01_desafiojogorpg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reset-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../reset-01.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZKUxP9kbzy8maxQ20rDQqq4oy8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppCombate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppCombate" />
+      <module name="tema02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppCombate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppCombate" />
+      <module name="tema02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppCombate" />
+        <item itemvalue="Application.AppCombate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369523ed-6ce6-4756-8c20-cc78a7635e15" name="Default Changelist" comment="" />
+      <created>1584587524928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584587524928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1584750417449">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1584750417449" />
+    <state x="179" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584763213909">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="179" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1584763213909" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1584765038091">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584765038091" />
+    <state width="1397" height="30" key="GridCell.Tab.0.bottom" timestamp="1584770423236">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="30" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584770423236" />
+    <state width="1397" height="30" key="GridCell.Tab.0.center" timestamp="1584770423236">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="30" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584770423236" />
+    <state width="1397" height="30" key="GridCell.Tab.0.left" timestamp="1584770423236">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="30" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584770423236" />
+    <state width="1397" height="30" key="GridCell.Tab.0.right" timestamp="1584770423236">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="30" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584770423236" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1584770417260">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584770417260" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1584770417260">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1584770417260" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1584770417260">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1584770417260" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1584770417260">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1584770417260" />
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584769836475">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584769836475" />
+    <state x="426" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1584590689626">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="426" y="58" key="refactoring.ChangeSignatureDialog/0.0.1440.860@0.0.1440.860" timestamp="1584590689626" />
+  </component>
+</project>

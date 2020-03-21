@@ -10,7 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/aula02/exercicio4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aula02/RpgRefatorado" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aula02/JogoRpgRefatorado/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/aula02/TemaRpgRefatorado/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula02/temaRpgRefatorado/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula02/tema02/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

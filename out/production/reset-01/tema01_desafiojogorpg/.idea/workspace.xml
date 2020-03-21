@@ -2,27 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba35938d-54eb-4ad6-9bd5-38d0adb5b5c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/tema01_desafiojogorpg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/TemaRpgRefatorado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/AppCombate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Arcano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Arma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Barbaro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Clerigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Combate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Druida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Feiticeiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Guerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/HomemDeArmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Magia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Mago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Personagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/PoderDivino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Sacerdote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/exercicio3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Arcano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Combate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Criacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/HomemDeArma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/MagiaEmArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/MagiaIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Poder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/PoderDivinoEmArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/PoderDivinoIndividual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema02/src/Sacerdote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/temaRpgRefatorado/TemaRpgRefatorado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/AppBatalha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Arcano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Calculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/CriarPersonagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/HomemDeArmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../aula02/tema_ananda/src/Sacerdote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula02/tema02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula02/tema02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula02/tema02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/TemaRpgRefatorado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula02/tema02/tema02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/AppCombate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Arcano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Barbaro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Clerigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Druida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Feiticeiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Guerreiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/HomemDeArmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Magia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/PoderDivino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/TemaRpgRefatorado/src/Sacerdote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/exercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula02/exercicio3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula02/exercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula02/exercicio4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/reset-01/tema01_desafiojogorpg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/reset-01/tema01_desafiojogorpg/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reset-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reset-01.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +85,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,5 +99,15 @@
       <updated>1584475273154</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1584666798220">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584666798220" />
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584543387512">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="415" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584543387512" />
   </component>
 </project>
