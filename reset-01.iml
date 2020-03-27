@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/aula02/JogoRpgRefatorado/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aula02/temaRpgRefatorado/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/aula02/tema02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aula03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projetoTinderEvolution/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
