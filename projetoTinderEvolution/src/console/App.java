@@ -10,27 +10,27 @@ public class App {
         MusicaMenu musicaMenu = new MusicaMenu();
 
         Scanner scanner = new Scanner(System.in);
-        char opcao = ' ';
+        String opcao = " ";
 
-        while (opcao != 'X') {
+        while (opcao.toUpperCase() != "X") {
 
             System.out.println("\nSelecione uma opção");
             System.out.println("[ U ] Usuários");
             System.out.println("[ M ] Músicas");
             System.out.println("[ X ] Encerrar");
             System.out.print("> ");
-            opcao = scanner.next().charAt(0);
+            opcao = scanner.next();
 
-            switch (opcao) {
-                case 'U':
+            switch (opcao.toUpperCase()) {
+                case "U":
                     usuarioMenu.opcoes();
                     break;
 
-                case 'M':
+                case "M":
                     musicaMenu.opcoes();
                     break;
 
-                case 'X':
+                case "X":
                     System.out.println("Encerrando...");
                     break;
 

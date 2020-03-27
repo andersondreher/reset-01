@@ -18,6 +18,49 @@ public class MusicaMenu {
 
     public void opcoes() {
         Scanner scanner = new Scanner(System.in);
+        String opcao = " ";
+
+        while (opcao.toUpperCase() != "X") {
+
+            System.out.println("\nSelecione uma opção");
+            System.out.println("[ C ] Criar");
+            System.out.println("[ E ] Editar");
+            System.out.println("[ L ] Listar");
+            System.out.println("[ P ] Procurar");
+            System.out.println("[ D ] Deletar");
+            System.out.println("[ X ] Voltar");
+            System.out.print("> ");
+            opcao = scanner.next();
+
+            switch (opcao.toUpperCase()) {
+                case "C":
+                    create();
+                    break;
+                case "E":
+                    editar();
+                    break;
+                case "L":
+                    listar();
+                    break;
+                case "P":
+                    procurar();
+                    break;
+                case "D":
+                    deletar();
+                    break;
+                case "X":
+                    System.out.println("...");
+                    break;
+                default:
+                    System.out.println("... opção inválida ...");
+            }
+        }
+    }
+
+    /* USANDO CHAR  NO LUGAR DE STRING:
+
+    public void opcoes() {
+        Scanner scanner = new Scanner(System.in);
         char opcao = ' ';
 
         while (opcao != 'X') {
@@ -56,6 +99,8 @@ public class MusicaMenu {
             }
         }
     }
+
+     */
 
     public Musica create() {
 

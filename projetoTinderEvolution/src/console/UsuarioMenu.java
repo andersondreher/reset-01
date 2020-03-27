@@ -17,9 +17,9 @@ public class UsuarioMenu {
 
     public void opcoes() {
         Scanner scanner = new Scanner(System.in);
-        char opcao = ' ';
+        String opcao = " ";
 
-        while (opcao != 'x') {
+        while (opcao.toUpperCase() != "X") {
 
             System.out.println("\nSelecione uma opção");
             System.out.println("[ C ] Criar");
@@ -29,25 +29,25 @@ public class UsuarioMenu {
             System.out.println("[ D ] Deletar");
             System.out.println("[ X ] Voltar");
             System.out.print("> ");
-            opcao = scanner.next().charAt(0);
+            opcao = scanner.next();
 
-            switch (opcao) {
-                case 'C':
+            switch (opcao.toUpperCase()) {
+                case "C":
                     create();
                     break;
-                case 'E':
+                case "E":
                     editar();
                     break;
-                case 'L':
+                case "L":
                     listar();
                     break;
-                case 'P':
+                case "P":
                     procurar();
                     break;
-                case 'D':
+                case "D":
                     deletar();
                     break;
-                case 'X':
+                case "X":
                     System.out.println("...");
                     break;
                 default:
@@ -81,8 +81,6 @@ public class UsuarioMenu {
 
         System.out.println("Dia de nascimento: ");
         int dia = scanner.nextInt();
-
-
 
         System.out.println("Localização - sua latitude é: ");
         double latitude = scanner.nextDouble();
