@@ -12,7 +12,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         String opcao = " ";
 
-        while (opcao.toUpperCase() != "X") {
+        while (!opcao.equalsIgnoreCase("X")) {
 
             System.out.println("\nSelecione uma opção");
             System.out.println("[ U ] Usuários");

@@ -19,7 +19,7 @@ public class UsuarioMenu {
         Scanner scanner = new Scanner(System.in);
         String opcao = " ";
 
-        while (opcao.toUpperCase() != "X") {
+        while (!opcao.equalsIgnoreCase("X")) {
 
             System.out.println("\nSelecione uma opção");
             System.out.println("[ C ] Criar");
@@ -75,18 +75,21 @@ public class UsuarioMenu {
 
         System.out.println("Ano de nascimento: ");
         int ano = scanner.nextInt();
+        scanner.nextLine();
 
         System.out.println("Mês de nascimento: ");
         int mes = scanner.nextInt();
+        scanner.nextLine();
 
         System.out.println("Dia de nascimento: ");
         int dia = scanner.nextInt();
+        scanner.nextLine();
 
         System.out.println("Localização - sua latitude é: ");
-        double latitude = scanner.nextDouble();
+        double latitude = Double.valueOf(scanner.nextLine());
 
         System.out.println("Localização - sua longitude é: ");
-        double longitude = scanner.nextDouble();
+        double longitude = Double.valueOf(scanner.nextLine());
 
         Usuario usuario = new Usuario(nome, email, telefone, LocalDate.of(ano, mes, dia), bio, latitude, longitude);
         return gerenciador.salvar(usuario);
@@ -116,6 +119,9 @@ public class UsuarioMenu {
         System.out.println("Telefone: ");
         String telefone = scanner.nextLine();
 
+        System.out.println("Escreva um pouco sobre você: ");
+        String bio = scanner.nextLine();
+
         System.out.println("Ano de nascimento: ");
         int ano = scanner.nextInt();
 
@@ -124,9 +130,6 @@ public class UsuarioMenu {
 
         System.out.println("Dia de nascimento: ");
         int dia = scanner.nextInt();
-
-        System.out.println("Escreva um pouco sobre você: ");
-        String bio = scanner.nextLine();
 
         System.out.println("Localização - sua latitude é: ");
         double latitude = scanner.nextDouble();

@@ -1,19 +1,23 @@
 package dominio;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
+
 
 public class Usuario {
 
+    private List<Musica> musicasCurtidas;
     private int id;
     private String nome;
     private String email;
     private String telefone;
     private LocalDate nascimento;
     private String bio;
-    private double latitude;
-    private double longitude;
+    private Double latitude;
+    private Double longitude;
 
-    public Usuario(String nome, String email, String telefone, LocalDate nascimento, String bio, double latitude, double longitude) {
+    public Usuario(String nome, String email, String telefone, LocalDate nascimento, String bio, Double latitude, Double longitude) {
         this.nome = nome;
         this.email = email;
         this.telefone = telefone;
@@ -21,6 +25,15 @@ public class Usuario {
         this.bio = bio;
         this.latitude = latitude;
         this.longitude = longitude;
+        this.musicasCurtidas = new ArrayList<>();
+    }
+
+    public void acrescentarMusica(Musica musica){
+        this.musicasCurtidas.add(musica);
+    }
+
+    public List<Musica> getMusicasCurtidas(){
+        return musicasCurtidas;
     }
 
     public int getId(){
@@ -71,19 +84,19 @@ public class Usuario {
         this.bio = bio;
     }
 
-    public double getLatitude(){
+    public Double getLatitude(){
         return latitude;
     }
 
-    public void setLatitude(double latitude){
+    public void setLatitude(Double latitude){
         this.latitude = latitude;
     }
 
-    public double getLongitude(){
+    public Double getLongitude(){
         return longitude;
     }
 
-    public void setLongitude(double longitude){
+    public void setLongitude(Double longitude){
         this.longitude = longitude;
     }
 

@@ -7,6 +7,7 @@ import dominio.Usuario;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.List;
+import java.util.ArrayList;
 
 public class UsuarioGerenciador {
 
@@ -18,12 +19,12 @@ public class UsuarioGerenciador {
 
         for (Usuario usuarioExistente : usuarios) {
             if (usuario.getEmail().equals(usuarioExistente.getEmail())) {
-                System.out.println("O e-mail cadastrado ja existe!");             //NÃO ESTÁ IMPRIMINDO
+                System.out.println("O e-mail cadastrado ja existe!");
                 return usuarioExistente;
             }
         }                                                                                 // ver sobre a latitude e longitude
 
-        if (usuario.getNome().isEmpty() || usuario.getEmail().isEmpty() || usuario.getTelefone().isEmpty() || usuario.getNascimento() == null || usuario.getBio().isEmpty()) {
+        if (usuario.getNome().isEmpty() || usuario.getEmail().isEmpty() || usuario.getTelefone().isEmpty() || usuario.getNascimento() == null || usuario.getBio().isEmpty() || usuario.getLatitude() == null || usuario.getLongitude() == null) {
             System.out.println("Campos obrigatórios não informado!");
             return null;
         }
@@ -42,6 +43,17 @@ public class UsuarioGerenciador {
 
         if (usuarioParaEditar == null) {
             return null;
+        }
+
+        if (usuarioAtualizado.getNome().isEmpty() || usuarioAtualizado.getEmail().isEmpty() || usuarioAtualizado.getTelefone().isEmpty() || usuarioAtualizado.getNascimento() == null || usuarioAtualizado.getBio().isEmpty() || usuarioAtualizado.getLatitude() == null || usuarioAtualizado.getLongitude() == null) {
+            System.out.println("Campos obrigatórios não informado!");
+            return null;
+        }
+
+        if (calcularIdade(usuarioAtualizado.getNascimento()) < 18) {
+            System.out.println("Usuário deve ter idade igual ou maior a 18 anos!");
+            return null;
+
         } else {
             return acervo.editar(usuarioParaEditar, usuarioAtualizado);
         }
@@ -74,5 +86,23 @@ public class UsuarioGerenciador {
         double idade = anos.getYears();
         return idade;
     }
+
+
+    public void curtir(Musica musica, Usuario usuario) {
+        usuario.acrescentarMusica(musica);
+    }
+
+//    public void compara(Usuario usuario, Usuario usuarioComparado) {
+//
+//        int contador = 0;
+//        for (Musica musicaMinha : ) {
+//
+//            for (Musica musicaDele : usuario.getMusicasCurtidas()) {
+//                if (musicaMinha.getId() == musicaDele.getId()){
+//                    contador++;
+//                }
+//            }
+//        }
+//    }
 }
 
